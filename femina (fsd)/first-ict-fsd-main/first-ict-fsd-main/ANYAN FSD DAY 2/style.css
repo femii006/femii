@@ -1,0 +1,12 @@
+#ANYAN {
+    color: blueviolet;
+    text-align: center;
+}
+  .BOX {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 30px;
+    margin-left: 300px;
+    margin-top: 10%; 
+    margin-right: 300px;
+   
+  }
